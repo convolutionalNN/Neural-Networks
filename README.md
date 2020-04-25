@@ -1,2 +1,2 @@
 # Neural-Networks
-Types of neural networks with their theory and math
+An ongoing collection and categorization of different neural networks with their architecture and math.
