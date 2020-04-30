@@ -1,0 +1,1 @@
+[Source of Information](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
